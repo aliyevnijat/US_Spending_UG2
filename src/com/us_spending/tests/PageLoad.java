@@ -8,5 +8,6 @@ public class PageLoad extends TestBaseClass {
 	@Test
 	public void pageLoad() {
 		//Shavkat's comment
+		//Saleh's comment
 	}
 }
